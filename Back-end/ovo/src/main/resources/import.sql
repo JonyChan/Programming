@@ -1,0 +1,2 @@
+INSERT INTO DOCK (dockpn, dockdescription, compatibilitypn, compatibilitydescription) values ('40AC0135US', 'Thinkpad Thunderbolt 3 Dock (American Standard Plug)','4XE0N80914', 'Kensington MicroSaver 2.0 Cable Lock from Lenovo');
+INSERT INTO DOCK (dockpn, dockdescription, compatibilitypn, compatibilitydescription) values ('40AC0135US', 'Thinkpad Thunderbolt 3 Dock (American Standard Plug)','4XF0S99497', 'Lenovo Docking Station Mounting Kit');
